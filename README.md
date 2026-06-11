@@ -12,7 +12,8 @@ A simple two-player Tic Tac Toe game built with C++ and [Raylib](https://www.ray
 
 ## Screenshot
 
-> *(Add a screenshot of your game here)*
+<img width="592" height="620" alt="Screenshot 2026-06-12 003711" src="https://github.com/user-attachments/assets/31fee078-8139-46e7-9b3d-899c8a579fb6" />
+
 
 ---
 
